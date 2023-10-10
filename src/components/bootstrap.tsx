@@ -1,3 +1,11 @@
 "use client";
 
-export { Container, SSRProvider, Alert, Spinner, Navbar, Nav } from 'react-bootstrap';
+export {
+  Container,
+  SSRProvider,
+  Alert,
+  Spinner,
+  Navbar,
+  Nav,
+  NavDropdown,
+} from "react-bootstrap";
